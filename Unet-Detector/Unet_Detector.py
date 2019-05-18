@@ -22,7 +22,7 @@ else: # DEFAULT
     epochs = 40
     mode = 'create'
     test = 'yes'
-    num_of_test_imgs = 7
+    num_of_test_imgs = 9
 train_dir = 'data/train'
 test_dir = 'data/test/image'
 

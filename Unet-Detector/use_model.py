@@ -13,7 +13,7 @@ generated_dir = "data/test_generated"
 if (len(sys.argv) > 1): # OD POUZIVATELA
     num_of_test_imgs = int(sys.argv[1])
 else: # DEFAULT
-    num_of_test_imgs = 7
+    num_of_test_imgs = 9
 
 
 # NACITAT MODEL
