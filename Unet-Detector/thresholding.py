@@ -27,3 +27,4 @@ if (len(sys.argv) > 1):
 else:
     thresholdLabeledImages('data/test/image', 0.9) # DEFAULT
 print('Thresholding finished.')
+
